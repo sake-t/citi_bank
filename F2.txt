@@ -1,0 +1,3 @@
+Enter Staging
+Stash command (to save Changes to temporary file)
+
